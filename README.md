@@ -1,7 +1,3 @@
-Here's a README file for a Menu Page project:
-
----
-
 # Menu Page
 
 The Menu Page is a simple and responsive web page that displays a list of food or drink items along with their descriptions and prices. This project showcases the use of HTML, CSS, and JavaScript to create an interactive and visually appealing menu.
@@ -67,7 +63,9 @@ menu-page/
 ├── index.html       # The main HTML file
 ├── styles.css       # The CSS file for styling
 └── script.js        # The JavaScript file for functionality
-└── assets/          # The image
+└── menu-item.jpeg   # The image
+└── images/          # Directory for images and other assets
+    
     
 ```
 
